@@ -1,0 +1,16 @@
+.link {
+    color: white;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+.link:hover {
+    transition: 0.2s;
+    color: black;
+}
+#navbar:hover {
+    color: violet;
+    transition: 0.2s;
+}

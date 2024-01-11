@@ -1,0 +1,29 @@
+.container {
+    padding-top: 2rem;
+}
+.coloumn {
+    box-shadow: 0 0 5px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 10px;
+}
+.ukuran {
+    background-color: lime;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+.link {
+    color: white;
+}
+.link:hover {
+    transition: 0.2s;
+    color: black;
+}
+#navbar:hover {
+    color: violet;
+    transition: 0.2s;
+}
